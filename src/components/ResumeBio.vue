@@ -4,12 +4,12 @@ import { ref } from 'vue'
 // States
 const me = ref({
   name: 'Mag-Stellon Nadarajah',
-  role: 'Software Engineer',
+  role: 'Software Engineer Manager',
 })
 
 const company = ref({
-  name: 'Dassault Systèmes',
-  link: 'https://www.3ds.com/',
+  name: 'Hermès',
+  link: 'https://www.hermes.com/',
 })
 
 const networks = ref([{
